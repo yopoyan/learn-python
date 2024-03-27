@@ -27,7 +27,7 @@
 ```scheme
 
 age = 27                    # 将数字赋值给 age 变量
-name = "Stan Xing"          # 将字符串赋值给 name 变量
+name = "xiaoming"           # 将字符串赋值给 name 变量
 print(age)
 print(name)
 
