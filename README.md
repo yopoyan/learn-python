@@ -8,3 +8,4 @@ Python 的基础知识，记录一下自己学习Python 的过程
 - [第四章: 运算符](./book/chapter4.md)
 - [第五章: 字符串](./book/chapter5.md)
 - [第六章: 分支](./book/chapter6.md)
+- [第七章:循环结构](./book/chapter7.md)
