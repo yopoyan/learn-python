@@ -11,7 +11,7 @@ Python 的基础知识，记录一下自己学习Python 的过程
 - [第七章:循环结构](./book/chapter7.md)
 - [第八章:列表](./book/chapter8.md)
 - [第九章:元组](./book/chapter9.md)
-- [第十一章:集合](./book/chapter10.md)
-- [第十二章:字典](./book/chapter11.md)
-- [第十三章:函数](./book/chapter12.md)
-  
+- [第十章:集合](./book/chapter10.md)
+- [第十一章:字典](./book/chapter11.md)
+- [第十二章:函数](./book/chapter12.md)
+- [第十三章:模块](./book/chapter13.md)
