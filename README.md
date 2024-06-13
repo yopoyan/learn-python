@@ -15,3 +15,4 @@ Python 的基础知识，记录一下自己学习Python 的过程
 - [第十一章:字典](./book/chapter11.md)
 - [第十二章:函数](./book/chapter12.md)
 - [第十三章:模块](./book/chapter13.md)
+- [第十四章:错误处理](./book/chapter14.md)
